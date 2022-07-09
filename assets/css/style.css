@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+.jumbotron {
+  background-color: #ff862f;
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+}
+#tombol {
+  background-color: #1a252f;
+  border: 1px solid white;
+}
+#tombol:hover {
+  background-color: white;
+  color: black;
+}
+.footer {
+  background-color: #2c3e50;
+  color: white;
+}
+#profil {
+  color: white;
+}
+#projects {
+  color: white;
+}
+.konten {
+  background-color: #1a252f;
+  color: white;
+}
+.font1 {
+  font-family: "Finlandica", sans-serif;
+}
+.fontnav {
+  font-family: "Righteous", cursive;
+}
+footer {
+  background-color: #1a252f;
+  color: white;
+}
+.font2 {
+  font-family: "Righteous", cursive;
+}
+/* #sosmedbtn{
+  border-radius: rem;
+} */
