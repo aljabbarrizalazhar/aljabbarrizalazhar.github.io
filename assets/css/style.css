@@ -41,6 +41,6 @@ footer {
 .font2 {
   font-family: "Righteous", cursive;
 }
-/* #sosmedbtn{
-  border-radius: rem;
-} */
+#navig:hover {
+  color: green;
+}
